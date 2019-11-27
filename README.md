@@ -1,4 +1,4 @@
-# 2DLabelWith3Dobj
+# 2D标签跟随3D物体
   private Vector2 WorldToUIPoint(Vector3 worldGo)
     {
         Vector2 pos;
